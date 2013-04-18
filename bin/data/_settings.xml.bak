@@ -1,0 +1,14 @@
+<controls>
+    <SliderFloat_of.threshold>
+        <name>of.threshold</name>
+        <value>24.500000000</value>
+    </SliderFloat_of.threshold>
+    <SliderFloat_of.maxforce>
+        <name>of.maxforce</name>
+        <value>14.199999809</value>
+    </SliderFloat_of.maxforce>
+    <SliderInt_of.step>
+        <name>of.step</name>
+        <value>36</value>
+    </SliderInt_of.step>
+</controls>
